@@ -1,5 +1,5 @@
 # Emerging Technologies Course Project
 
-##Project Proposal Submission
+## Project Proposal Submission
 
-#IEEE Report
+# IEEE Report
