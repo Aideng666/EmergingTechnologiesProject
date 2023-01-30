@@ -7,4 +7,5 @@ A pdf for an overview of our group regarding team size, names, roles and skilss 
 We have also included a pdf above of our Gantt chart highlighting the entire process from start to finish 
 
 ## IEEE Report
-[Emerging_Technologies_Proposal.pdf](https://github.com/Aideng666/EmergingTechnologiesProject/files/10532310/Emerging_Technologies_Proposal.pdf)
+
+[IEEE Project Proposal Report.pdf](https://github.com/Aideng666/EmergingTechnologiesProject/files/10533140/IEEE.Project.Proposal.Report.pdf)
